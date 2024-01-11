@@ -1,0 +1,49 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\shawon\.npm-global\node_modules\yarn\bin\yarn.js add framer-motion
+
+PATH: 
+  C:\Program Files\Zulu\zulu-17\bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Python311\Scripts\;C:\Python311\;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\dotnet\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\wamp64\bin\php\php7.4.33;C:\composer;C:\Program Files\platform-tools;C:\Program Files (x86)\Java\jdk1.8.0_202\bin;C:\Program Files\Git\cmd;C:\android\cmdline-tools\tools\bin;C:\android\cmdline-tools\tools;C:\android\sdk\platform-tools;C:\src\flutter\bin;D:\Apps Install\Microsoft VS Code\bin;C:\Users\shawon\AppData\Local\Microsoft\WindowsApps;C:\Users\shawon\.dotnet\tools;C:\Users\shawon\AppData\Roaming\npm;C:\Users\shawon\.npm-global;C:\Users\shawon\AppData\Roaming\Composer\vendor\bin;C:\Program Files\Java\jre-1.8\bin;C:\Program Files (x86)\Java\jdk1.8.0_202\bin;C:\Python311\Scripts;C:\Program Files\Java\jdk-20\bin;C:\android\platforms;C:\android\platform-tools;C:\android\sdk;;C:\Users\shawon\AppData\Local\Programs\Microsoft VS Code\bin
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  20.5.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: EPERM: operation not permitted, lstat 'D:\React\01.12.23\Portfolio V1\node_modules\@aashutoshrathi\word-wrap\index.js'
+
+npm manifest: 
+  {
+    "name": "khulnatravel",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+      "dev": "next dev",
+      "build": "next build",
+      "start": "next start",
+      "lint": "next lint"
+    },
+    "dependencies": {
+      "next": "14.0.4",
+      "react": "^18",
+      "react-dom": "^18",
+      "react-spring": "^9.7.3"
+    },
+    "devDependencies": {
+      "autoprefixer": "^10.0.1",
+      "eslint": "^8",
+      "eslint-config-next": "14.0.4",
+      "postcss": "^8",
+      "tailwindcss": "^3.3.0"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
