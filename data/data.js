@@ -26,13 +26,13 @@ const imageData = [
     },
     {
       link: "/",
-      srcSet: "/images/1.png",
+      srcSet: "/images/nd.png",
       alt: "Home Boxed",
       caption: "Home Boxed",
     },
     {
       link: "/",
-      srcSet: "/images/555.png",
+      srcSet: "/images/nd.png",
       alt: "Home RTL",
       caption: "Home RTL",
     },
