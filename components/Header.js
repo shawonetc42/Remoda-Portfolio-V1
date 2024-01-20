@@ -51,7 +51,7 @@ function Header() {
                 <div className="flex flex-col items-stretch w-[61%] ml-5 max-md:w-full max-md:ml-0">
                   <img
                     loading="lazy"
-                    srcSet="/images/11.png"
+                    srcSet="/images/nd.png"
                     className="aspect-[1.47] object-contain object-center w-full shadow-2xl overflow-hidden grow max-md:max-w-full"
                   />
                 </div>
